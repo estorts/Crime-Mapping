@@ -1,0 +1,12 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://crime-mapping/mke_crime_data.csv",
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "textqualifier": "\""
+    }
+}
